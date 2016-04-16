@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : ArchivosBinarios.cpp
-// Author      : Martín
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Author      : MartÃ­n
+// Copyright   : Libre de copiright
+// Description : Archivo de estructura, con archivo binario
 //============================================================================
 
 #include<iostream>
